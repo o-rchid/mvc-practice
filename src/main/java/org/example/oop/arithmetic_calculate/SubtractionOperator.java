@@ -1,4 +1,4 @@
-package org.example.oop.calculate;
+package org.example.oop.arithmetic_calculate;
 
 public class SubtractionOperator implements NewArithmeticOperator {
 

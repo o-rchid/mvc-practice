@@ -1,4 +1,4 @@
-package org.example.oop;
+package org.example.oop.arithmetic_calculate;
 
 import java.util.Arrays;
 

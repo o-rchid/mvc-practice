@@ -1,6 +1,6 @@
-package org.example.oop;
+package org.example.oop.arithmetic_calculate;
 
-import org.example.oop.calculate.PositiveNumber;
+import org.example.oop.arithmetic_calculate.PositiveNumber;
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.params.provider.ValueSource;
 

@@ -1,4 +1,4 @@
-package org.example.oop;
+package org.example.oop.grade_operate;
 
 public class Course {
     private final String subject;
