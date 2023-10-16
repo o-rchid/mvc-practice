@@ -28,7 +28,4 @@ public class User {
         return Objects.hash(userId, name);
     }
 
-    public String getUserId() {
-        return userId;
-    }
 }
